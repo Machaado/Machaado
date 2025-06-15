@@ -60,11 +60,19 @@ Me chamo Marcelo Augusto Machado, tenho 22 anos. Sou bacharel em Ciência da Com
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JUnit"
+    title="JUnit" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" 
 />
 <img 
     align="left" 
