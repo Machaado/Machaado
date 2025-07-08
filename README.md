@@ -2,7 +2,7 @@
 
 **`Quality Assurance`**
 
-Me chamo Marcelo Augusto Machado, tenho 22 anos. Sou bacharel em Ciência da Computação, atualmente faço Pós-Graduação em Teste de Software (QA), estou em busca de uma oportunidade como QA. Estou me aprofundando cada dia mais em automação de tarefas e testes de qualidade. Eu tenho experiência com algumas ferramentas, como Selenium, Cypress, Pytest, Junit, Jenkins, Locust, Zap Proxy, entre outras. Aqui costumo postar meus projetos com boas práticas na área de QA.
+Me chamo Marcelo Augusto Machado, tenho 22 anos. Sou bacharel em Ciência da Computação, atualmente faço Pós-Graduação em Teste de Software (QA), estou em constante evolução como QA. Estou me aprofundando cada dia mais em automação de tarefas e testes de qualidade. Eu tenho experiência com algumas ferramentas, como Selenium, Cypress, Pytest, Junit, TestNG, PHPUnit, Jenkins, Locust, Zap Proxy, entre outras. Aqui costumo postar meus projetos com boas práticas na área de QA.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/marcelomachado10">
